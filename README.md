@@ -43,7 +43,3 @@ auto signature = sk.sign(messages);
 // Проверка подписи
 bool is_valid = pk.verify(messages, signature);
 ```
-
-## Лицензия
-
-Этот проект распространяется под лицензией MIT - подробности в файле LICENSE. 
