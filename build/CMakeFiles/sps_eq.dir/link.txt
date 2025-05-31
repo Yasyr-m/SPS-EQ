@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sps_eq.dir/main.cpp.o CMakeFiles/sps_eq.dir/sps_eq.cpp.o -o sps_eq  -lff /usr/lib/x86_64-linux-gnu/libgmp.so /usr/lib/x86_64-linux-gnu/libsodium.so 

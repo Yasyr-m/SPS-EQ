@@ -1,0 +1,3 @@
+/home/yasyr/Документы/sps/build/CMakeFiles/sps_eq.dir
+/home/yasyr/Документы/sps/build/CMakeFiles/edit_cache.dir
+/home/yasyr/Документы/sps/build/CMakeFiles/rebuild_cache.dir
